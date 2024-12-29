@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+selenium
+chromedriver-autoinstaller
+aiohttp
+webdriver-manager
+python-multipart

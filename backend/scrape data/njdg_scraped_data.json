@@ -1,0 +1,23 @@
+[
+    {
+        "Instituted in last month civil cases\n0": "Instituted in last month criminal cases\n0",
+        "Civil": "Criminal"
+    },
+    {
+        "Disposal in last month civil cases\n0": "Disposal in last month criminal cases\n0",
+        "Civil": "Criminal"
+    },
+    {
+        "156": "(970)",
+        "31": "(267)",
+        "6": "(29)"
+    },
+    {
+        "Instituted in current year civil cases\n22,807": "Instituted in current year criminal cases\n11,339",
+        "Civil": "Criminal"
+    },
+    {
+        "Disposal in current year civil cases\n20,619\n(90.41%)": "Disposal in current year criminal cases\n11,123\n(98.1%)",
+        "Civil": "Criminal"
+    }
+]

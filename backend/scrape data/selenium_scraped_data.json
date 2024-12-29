@@ -1,0 +1,753 @@
+{
+    "title": "NJDG-National Judicial Data Grid",
+    "paragraphs": [
+        "",
+        "",
+        "A-",
+        "A",
+        "A+",
+        "A",
+        "A",
+        "",
+        "At a Glance",
+        "Pending Dashboard",
+        "Disposed Dashboard",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "links": [
+        {
+            "text": "National Judicial Data Grid\nSupreme Court of India",
+            "url": "https://scdg.sci.gov.in/scnjdg/?p=home&app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "A-",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "A",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "A+",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "A",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "A",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#"
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "",
+            "url": "https://scdg.sci.gov.in/scnjdg/#?app_token="
+        },
+        {
+            "text": "About Us",
+            "url": "https://scdg.sci.gov.in/scnjdg/?p=home/footerlinks/ab&escr_flag=&app_token="
+        },
+        {
+            "text": "Site map",
+            "url": "https://scdg.sci.gov.in/scnjdg/?p=home/footerlinks/sm&app_token="
+        },
+        {
+            "text": "Contact Us",
+            "url": "https://scdg.sci.gov.in/scnjdg/?p=home/footerlinks/cu&app_token="
+        },
+        {
+            "text": "Accessibility Statement",
+            "url": "https://scdg.sci.gov.in/scnjdg/?p=home/footerlinks/as&app_token="
+        },
+        {
+            "text": "Screen Reader Access",
+            "url": "https://scdg.sci.gov.in/scnjdg/?p=home/footerlinks/sr&app_token="
+        },
+        {
+            "text": "Web Information Manager",
+            "url": "https://scdg.sci.gov.in/scnjdg/?p=home/footerlinks/wi&app_token="
+        },
+        {
+            "text": "Terms and Conditions",
+            "url": "https://scdg.sci.gov.in/scnjdg/?p=home/footerlinks/tc&app_token="
+        },
+        {
+            "text": "Copyright Policy",
+            "url": "https://scdg.sci.gov.in/scnjdg/?p=home/footerlinks/cp&escr_flag=&app_token="
+        },
+        {
+            "text": "Privacy Policy",
+            "url": "https://scdg.sci.gov.in/scnjdg/?p=home/footerlinks/pp&app_token="
+        },
+        {
+            "text": "Disclaimer",
+            "url": "https://scdg.sci.gov.in/scnjdg/?p=home/footerlinks/di&app_token="
+        },
+        {
+            "text": "SUPREME COURT OF INDIA",
+            "url": "https://main.sci.gov.in/?app_token="
+        },
+        {
+            "text": "",
+            "url": "http://www.nic.in/?app_token="
+        }
+    ]
+}
